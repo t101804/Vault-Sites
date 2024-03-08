@@ -1,6 +1,6 @@
 {
   "vaultName": "Home",
-  "lastExport": 1709567792453,
+  "lastExport": 1709902804875,
   "pluginVersion": "1.8.0",
   "validBodyClasses": "publish css-settings-manager theme-dark show-inline-title",
   "useCustomHeadContent": false,
@@ -21,6 +21,7 @@
     "🔐 Cyber Security/🌐 Category/Forensic/Steganography/What is Steganography.md",
     "🔐 Cyber Security/🌐 Category/Forensic/Steganography/ZIP.md",
     "🔐 Cyber Security/🌐 Category/Forensic/Basic.md",
+    "🔐 Cyber Security/🌐 Category/Forensic/ZIP Brute Nuclear Code LKS Malang Quals.md",
     "🔐 Cyber Security/🌐 Category/Pwn/CTF Writeup/Ret2win , all checksec false.md",
     "🔐 Cyber Security/🌐 Category/Pwn/PWN101/01 Modifying stack.md",
     "🔐 Cyber Security/🌐 Category/Pwn/PWN101/02 Spesific Modfying Stack.md",
@@ -35,12 +36,14 @@
     "🔐 Cyber Security/🌐 Category/Web Exploit/AFU Bypass restricted extension and mimetype and resized by Imagick.md",
     "🔐 Cyber Security/🌐 Category/Web Exploit/Basic.md",
     "🔐 Cyber Security/🌐 Category/Web Exploit/Cache Poisoning Node-JS.md",
+    "🔐 Cyber Security/🌐 Category/Web Exploit/Javascript Argument Injection to XSS bypass regex.md",
     "🔐 Cyber Security/🌐 Category/Web Exploit/Log4J MC Server & Login Admin Win - HTB Crafty Easy.md",
     "🔐 Cyber Security/🌐 Category/Web Exploit/Loose Comparison == in javascript to bypass length using parameter array to command injection.md",
     "🔐 Cyber Security/🌐 Category/Web Exploit/PHP-Python Parser Differential Bypass Validation.md",
     "🔐 Cyber Security/🌐 Category/Web Exploit/Protobuf Prototype Pollution To EJS RCE.md",
     "🔐 Cyber Security/🌐 Category/Web Exploit/Ruby SSTI Bypass Validation Regex.md",
     "🔐 Cyber Security/🌐 Category/Web Exploit/SQL Injection Retreive data on another Tables.md",
+    "🔐 Cyber Security/🌐 Category/Web Exploit/XSLeak CSS for getting Input Value.md",
     "🔐 Cyber Security/🌐 Category/Misc.md",
     "🔐 Cyber Security/🚩 CTF/👁️‍🗨️ Source.md",
     "🔐 Cyber Security/What Is Cyber Security ❓.md",
@@ -48,6 +51,8 @@
     "Files/cat.png",
     "Files/chall.zip",
     "Files/chall_size.zip",
+    "Files/dist.zip",
+    "Files/elkaes.zip",
     "Files/file.dotm",
     "Files/logs",
     "Files/packet.pcap",
@@ -93,6 +98,8 @@
     "Files/Pasted image 20240304225017.png",
     "Files/Pasted image 20240304225120.png",
     "Files/Pasted image 20240304225154.png",
+    "Files/Pasted image 20240308012948.png",
+    "Files/Pasted image 20240308194327.png",
     "Files/pwn101.pwn101",
     "Files/pwn102.pwn102",
     "Files/pwn103.pwn103",
@@ -197,903 +204,945 @@
   ],
   "fileInfo": {
     "🔐 Cyber Security/🌐 Category/Forensic/Network Analysis/Hidden Chr in bruteforce port FTP.md": {
-      "modifiedTime": 1709567792453,
+      "modifiedTime": 1709902804875,
       "sourceSize": 2204,
       "exportedPath": "🔐 Cyber Security/🌐 Category/Forensic/Network Analysis/Hidden Chr in bruteforce port FTP.html",
       "dependencies": []
     },
     "🔐 Cyber Security/🌐 Category/Forensic/Network Analysis/Hidden Doubled Image in packet pcap icmp.md": {
-      "modifiedTime": 1709567792453,
+      "modifiedTime": 1709902804875,
       "sourceSize": 2179,
       "exportedPath": "🔐 Cyber Security/🌐 Category/Forensic/Network Analysis/Hidden Doubled Image in packet pcap icmp.html",
       "dependencies": []
     },
     "🔐 Cyber Security/🌐 Category/Forensic/Steganography/Broken Image Becaused By Hidden Hex Binary.md": {
-      "modifiedTime": 1709567792453,
+      "modifiedTime": 1709902804875,
       "sourceSize": 1021,
       "exportedPath": "🔐 Cyber Security/🌐 Category/Forensic/Steganography/Broken Image Becaused By Hidden Hex Binary.html",
       "dependencies": []
     },
     "🔐 Cyber Security/🌐 Category/Forensic/Steganography/Brute Image OCR Tesseract.md": {
-      "modifiedTime": 1709567792453,
+      "modifiedTime": 1709902804875,
       "sourceSize": 6552,
       "exportedPath": "🔐 Cyber Security/🌐 Category/Forensic/Steganography/Brute Image OCR Tesseract.html",
       "dependencies": []
     },
     "🔐 Cyber Security/🌐 Category/Forensic/Steganography/Brute zip with generating pass lists 5 bytes str + int caused for truncated.md": {
-      "modifiedTime": 1709567792453,
+      "modifiedTime": 1709902804875,
       "sourceSize": 2063,
       "exportedPath": "🔐 Cyber Security/🌐 Category/Forensic/Steganography/Brute zip with generating pass lists 5 bytes str + int caused for truncated.html",
       "dependencies": []
     },
     "🔐 Cyber Security/🌐 Category/Forensic/Steganography/PPT,Dotm, Word, Excel,Pdf.md": {
-      "modifiedTime": 1709567792453,
+      "modifiedTime": 1709902804875,
       "sourceSize": 908,
       "exportedPath": "🔐 Cyber Security/🌐 Category/Forensic/Steganography/PPT,Dotm, Word, Excel,Pdf.html",
       "dependencies": []
     },
     "🔐 Cyber Security/🌐 Category/Forensic/Steganography/RIFF , WAVE audio.md": {
-      "modifiedTime": 1709567792453,
+      "modifiedTime": 1709902804875,
       "sourceSize": 177,
       "exportedPath": "🔐 Cyber Security/🌐 Category/Forensic/Steganography/RIFF , WAVE audio.html",
       "dependencies": []
     },
     "🔐 Cyber Security/🌐 Category/Forensic/Steganography/Starter Steganograpy.md": {
-      "modifiedTime": 1709567792453,
+      "modifiedTime": 1709902804875,
       "sourceSize": 193,
       "exportedPath": "🔐 Cyber Security/🌐 Category/Forensic/Steganography/Starter Steganograpy.html",
       "dependencies": []
     },
     "🔐 Cyber Security/🌐 Category/Forensic/Steganography/What is Steganography.md": {
-      "modifiedTime": 1709567792453,
+      "modifiedTime": 1709902804875,
       "sourceSize": 309,
       "exportedPath": "🔐 Cyber Security/🌐 Category/Forensic/Steganography/What is Steganography.html",
       "dependencies": []
     },
     "🔐 Cyber Security/🌐 Category/Forensic/Steganography/ZIP.md": {
-      "modifiedTime": 1709567792453,
+      "modifiedTime": 1709902804875,
       "sourceSize": 555,
       "exportedPath": "🔐 Cyber Security/🌐 Category/Forensic/Steganography/ZIP.html",
       "dependencies": []
     },
     "🔐 Cyber Security/🌐 Category/Forensic/Basic.md": {
-      "modifiedTime": 1709567792453,
+      "modifiedTime": 1709902804875,
       "sourceSize": 147,
       "exportedPath": "🔐 Cyber Security/🌐 Category/Forensic/Basic.html",
       "dependencies": []
     },
     "🔐 Cyber Security/🌐 Category/Pwn/Basic.md": {
-      "modifiedTime": 1709567792453,
+      "modifiedTime": 1709902804875,
       "sourceSize": 643,
       "exportedPath": "🔐 Cyber Security/🌐 Category/Pwn/Basic.html",
       "dependencies": []
     },
     "🔐 Cyber Security/🌐 Category/Pwn/GDB Cheatsheet.md": {
-      "modifiedTime": 1709567792453,
+      "modifiedTime": 1709902804875,
       "sourceSize": 2205,
       "exportedPath": "🔐 Cyber Security/🌐 Category/Pwn/GDB Cheatsheet.html",
       "dependencies": []
     },
     "🔐 Cyber Security/🌐 Category/Pwn/Intro To Assembly.md": {
-      "modifiedTime": 1709567792453,
+      "modifiedTime": 1709902804875,
       "sourceSize": 3584,
       "exportedPath": "🔐 Cyber Security/🌐 Category/Pwn/Intro To Assembly.html",
       "dependencies": []
     },
     "🔐 Cyber Security/🌐 Category/Reverse Engineering/Basic.md": {
-      "modifiedTime": 1709567792453,
+      "modifiedTime": 1709902804875,
       "sourceSize": 0,
       "exportedPath": "🔐 Cyber Security/🌐 Category/Reverse Engineering/Basic.html",
       "dependencies": []
     },
     "🔐 Cyber Security/🌐 Category/Reverse Engineering/Index Reverse Engineering + Hex Index.md": {
-      "modifiedTime": 1709567792453,
+      "modifiedTime": 1709902804875,
       "sourceSize": 435,
       "exportedPath": "🔐 Cyber Security/🌐 Category/Reverse Engineering/Index Reverse Engineering + Hex Index.html",
       "dependencies": []
     },
     "🔐 Cyber Security/🌐 Category/Reverse Engineering/Json Tree Reverse Engineering.md": {
-      "modifiedTime": 1709567792453,
+      "modifiedTime": 1709902804875,
       "sourceSize": 733,
       "exportedPath": "🔐 Cyber Security/🌐 Category/Reverse Engineering/Json Tree Reverse Engineering.html",
       "dependencies": []
     },
     "🔐 Cyber Security/🌐 Category/Web Exploit/AFU Bypass restricted char for RCE, move_uploaded_file.md": {
-      "modifiedTime": 1709567792453,
+      "modifiedTime": 1709902804875,
       "sourceSize": 1765,
       "exportedPath": "🔐 Cyber Security/🌐 Category/Web Exploit/AFU Bypass restricted char for RCE, move_uploaded_file.html",
       "dependencies": []
     },
     "🔐 Cyber Security/🌐 Category/Web Exploit/AFU Bypass restricted extension and mimetype and resized by Imagick.md": {
-      "modifiedTime": 1709567792453,
+      "modifiedTime": 1709902804875,
       "sourceSize": 2893,
       "exportedPath": "🔐 Cyber Security/🌐 Category/Web Exploit/AFU Bypass restricted extension and mimetype and resized by Imagick.html",
       "dependencies": []
     },
     "🔐 Cyber Security/🌐 Category/Web Exploit/Basic.md": {
-      "modifiedTime": 1709567792453,
+      "modifiedTime": 1709902804875,
       "sourceSize": 1784,
       "exportedPath": "🔐 Cyber Security/🌐 Category/Web Exploit/Basic.html",
       "dependencies": []
     },
     "🔐 Cyber Security/🌐 Category/Web Exploit/Cache Poisoning Node-JS.md": {
-      "modifiedTime": 1709567792453,
+      "modifiedTime": 1709902804875,
       "sourceSize": 3326,
       "exportedPath": "🔐 Cyber Security/🌐 Category/Web Exploit/Cache Poisoning Node-JS.html",
       "dependencies": []
     },
     "🔐 Cyber Security/🌐 Category/Web Exploit/Log4J MC Server & Login Admin Win - HTB Crafty Easy.md": {
-      "modifiedTime": 1709567792453,
+      "modifiedTime": 1709902804875,
       "sourceSize": 3626,
       "exportedPath": "🔐 Cyber Security/🌐 Category/Web Exploit/Log4J MC Server & Login Admin Win - HTB Crafty Easy.html",
       "dependencies": []
     },
     "🔐 Cyber Security/🌐 Category/Web Exploit/PHP-Python Parser Differential Bypass Validation.md": {
-      "modifiedTime": 1709567792453,
+      "modifiedTime": 1709902804875,
       "sourceSize": 2720,
       "exportedPath": "🔐 Cyber Security/🌐 Category/Web Exploit/PHP-Python Parser Differential Bypass Validation.html",
       "dependencies": []
     },
     "🔐 Cyber Security/🌐 Category/Web Exploit/Protobuf Prototype Pollution To EJS RCE.md": {
-      "modifiedTime": 1709567792453,
+      "modifiedTime": 1709902804875,
       "sourceSize": 3007,
       "exportedPath": "🔐 Cyber Security/🌐 Category/Web Exploit/Protobuf Prototype Pollution To EJS RCE.html",
       "dependencies": []
     },
     "🔐 Cyber Security/🌐 Category/Web Exploit/Ruby SSTI Bypass Validation Regex.md": {
-      "modifiedTime": 1709567792453,
+      "modifiedTime": 1709902804875,
       "sourceSize": 1492,
       "exportedPath": "🔐 Cyber Security/🌐 Category/Web Exploit/Ruby SSTI Bypass Validation Regex.html",
       "dependencies": []
     },
     "🔐 Cyber Security/🌐 Category/Web Exploit/SQL Injection Retreive data on another Tables.md": {
-      "modifiedTime": 1709567792453,
+      "modifiedTime": 1709902804875,
       "sourceSize": 1048,
       "exportedPath": "🔐 Cyber Security/🌐 Category/Web Exploit/SQL Injection Retreive data on another Tables.html",
       "dependencies": []
     },
     "🔐 Cyber Security/🌐 Category/Misc.md": {
-      "modifiedTime": 1709567792453,
+      "modifiedTime": 1709902804875,
       "sourceSize": 150,
       "exportedPath": "🔐 Cyber Security/🌐 Category/Misc.html",
       "dependencies": []
     },
     "🔐 Cyber Security/🚩 CTF/👁️‍🗨️ Source.md": {
-      "modifiedTime": 1709567792453,
+      "modifiedTime": 1709902804875,
       "sourceSize": 342,
       "exportedPath": "🔐 Cyber Security/🚩 CTF/👁️‍🗨️ Source.html",
       "dependencies": []
     },
     "🔐 Cyber Security/What Is Cyber Security ❓.md": {
-      "modifiedTime": 1709567792453,
+      "modifiedTime": 1709902804875,
       "sourceSize": 766,
       "exportedPath": "🔐 Cyber Security/What Is Cyber Security ❓.html",
       "dependencies": []
     },
     "Files/bounciez.pcapng": {
-      "modifiedTime": 1709567792453,
+      "modifiedTime": 1709902804875,
       "sourceSize": 50502448,
       "exportedPath": "Files/bounciez.pcapng",
       "dependencies": []
     },
     "Files/cat.png": {
-      "modifiedTime": 1709567792453,
+      "modifiedTime": 1709902804875,
       "sourceSize": 766020,
       "exportedPath": "Files/cat.png",
       "dependencies": []
     },
     "Files/chall.zip": {
-      "modifiedTime": 1709567792453,
+      "modifiedTime": 1709902804875,
       "sourceSize": 4241,
       "exportedPath": "Files/chall.zip",
       "dependencies": []
     },
     "Files/file.dotm": {
-      "modifiedTime": 1709567792453,
+      "modifiedTime": 1709902804875,
       "sourceSize": 18036,
       "exportedPath": "Files/file.dotm",
       "dependencies": []
     },
     "Files/packet.pcap": {
-      "modifiedTime": 1709567792453,
+      "modifiedTime": 1709902804875,
       "sourceSize": 98160,
       "exportedPath": "Files/packet.pcap",
       "dependencies": []
     },
     "Files/Pasted image 20240226135952.png": {
-      "modifiedTime": 1709567792453,
+      "modifiedTime": 1709902804875,
       "sourceSize": 332244,
       "exportedPath": "Files/Pasted image 20240226135952.png",
       "dependencies": []
     },
     "Files/Pasted image 20240226182430.png": {
-      "modifiedTime": 1709567792453,
+      "modifiedTime": 1709902804875,
       "sourceSize": 564616,
       "exportedPath": "Files/Pasted image 20240226182430.png",
       "dependencies": []
     },
     "Files/Pasted image 20240226195145.png": {
-      "modifiedTime": 1709567792453,
+      "modifiedTime": 1709902804875,
       "sourceSize": 586369,
       "exportedPath": "Files/Pasted image 20240226195145.png",
       "dependencies": []
     },
     "Files/Pasted image 20240226195224.png": {
-      "modifiedTime": 1709567792453,
+      "modifiedTime": 1709902804875,
       "sourceSize": 582638,
       "exportedPath": "Files/Pasted image 20240226195224.png",
       "dependencies": []
     },
     "Files/Pasted image 20240226204923.png": {
-      "modifiedTime": 1709567792453,
+      "modifiedTime": 1709902804875,
       "sourceSize": 1214782,
       "exportedPath": "Files/Pasted image 20240226204923.png",
       "dependencies": []
     },
     "Files/Pasted image 20240228192754.png": {
-      "modifiedTime": 1709567792453,
+      "modifiedTime": 1709902804875,
       "sourceSize": 421806,
       "exportedPath": "Files/Pasted image 20240228192754.png",
       "dependencies": []
     },
     "Files/Pasted image 20240228192908.png": {
-      "modifiedTime": 1709567792453,
+      "modifiedTime": 1709902804875,
       "sourceSize": 412556,
       "exportedPath": "Files/Pasted image 20240228192908.png",
       "dependencies": []
     },
     "Files/Pasted image 20240228192938.png": {
-      "modifiedTime": 1709567792453,
+      "modifiedTime": 1709902804875,
       "sourceSize": 921953,
       "exportedPath": "Files/Pasted image 20240228192938.png",
       "dependencies": []
     },
     "Files/Pasted image 20240228205403.png": {
-      "modifiedTime": 1709567792453,
+      "modifiedTime": 1709902804875,
       "sourceSize": 417047,
       "exportedPath": "Files/Pasted image 20240228205403.png",
       "dependencies": []
     },
     "Files/Pasted image 20240228210540.png": {
-      "modifiedTime": 1709567792453,
+      "modifiedTime": 1709902804875,
       "sourceSize": 790681,
       "exportedPath": "Files/Pasted image 20240228210540.png",
       "dependencies": []
     },
     "Files/Pasted image 20240228212833.png": {
-      "modifiedTime": 1709567792453,
+      "modifiedTime": 1709902804875,
       "sourceSize": 200344,
       "exportedPath": "Files/Pasted image 20240228212833.png",
       "dependencies": []
     },
     "Files/Pasted image 20240228223822.png": {
-      "modifiedTime": 1709567792453,
+      "modifiedTime": 1709902804875,
       "sourceSize": 699110,
       "exportedPath": "Files/Pasted image 20240228223822.png",
       "dependencies": []
     },
     "Files/Pasted image 20240228224543.png": {
-      "modifiedTime": 1709567792453,
+      "modifiedTime": 1709902804875,
       "sourceSize": 851819,
       "exportedPath": "Files/Pasted image 20240228224543.png",
       "dependencies": []
     },
     "Files/Pasted image 20240228224549.png": {
-      "modifiedTime": 1709567792453,
+      "modifiedTime": 1709902804875,
       "sourceSize": 851819,
       "exportedPath": "Files/Pasted image 20240228224549.png",
       "dependencies": []
     },
     "Files/Pasted image 20240229142642.png": {
-      "modifiedTime": 1709567792453,
+      "modifiedTime": 1709902804875,
       "sourceSize": 452817,
       "exportedPath": "Files/Pasted image 20240229142642.png",
       "dependencies": []
     },
     "Files/Pasted image 20240229145402.png": {
-      "modifiedTime": 1709567792453,
+      "modifiedTime": 1709902804875,
       "sourceSize": 193217,
       "exportedPath": "Files/Pasted image 20240229145402.png",
       "dependencies": []
     },
     "Files/Pasted image 20240229145510.png": {
-      "modifiedTime": 1709567792453,
+      "modifiedTime": 1709902804875,
       "sourceSize": 456224,
       "exportedPath": "Files/Pasted image 20240229145510.png",
       "dependencies": []
     },
     "Files/Pasted image 20240229152728.png": {
-      "modifiedTime": 1709567792453,
+      "modifiedTime": 1709902804875,
       "sourceSize": 577954,
       "exportedPath": "Files/Pasted image 20240229152728.png",
       "dependencies": []
     },
     "Files/Pasted image 20240229154026.png": {
-      "modifiedTime": 1709567792453,
+      "modifiedTime": 1709902804875,
       "sourceSize": 852993,
       "exportedPath": "Files/Pasted image 20240229154026.png",
       "dependencies": []
     },
     "Files/solver.py": {
-      "modifiedTime": 1709567792453,
+      "modifiedTime": 1709902804875,
       "sourceSize": 4725,
       "exportedPath": "Files/solver.py",
       "dependencies": []
     },
     "baby-rev": {
-      "modifiedTime": 1709567792453,
+      "modifiedTime": 1709902804875,
       "sourceSize": 16240,
       "exportedPath": "baby-rev/baby-rev.",
       "dependencies": []
     },
     "chall.json": {
-      "modifiedTime": 1709567792453,
+      "modifiedTime": 1709902804875,
       "sourceSize": 28303,
       "exportedPath": "chall.json",
       "dependencies": []
     },
     "Daily Notes.md": {
-      "modifiedTime": 1709567792453,
+      "modifiedTime": 1709902804875,
       "sourceSize": 0,
       "exportedPath": "Daily Notes.html",
       "dependencies": []
     },
     "EasterBunny.zip": {
-      "modifiedTime": 1709567792453,
+      "modifiedTime": 1709902804875,
       "sourceSize": 662324,
       "exportedPath": "EasterBunny.zip",
       "dependencies": []
     },
     "Micro_togive.zip": {
-      "modifiedTime": 1709567792453,
+      "modifiedTime": 1709902804875,
       "sourceSize": 4179,
       "exportedPath": "Micro_togive.zip",
       "dependencies": []
     },
     "Neonify.zip": {
-      "modifiedTime": 1709567792453,
+      "modifiedTime": 1709902804875,
       "sourceSize": 42545,
       "exportedPath": "Neonify.zip",
       "dependencies": []
     },
     "Notes.md": {
-      "modifiedTime": 1709567792453,
+      "modifiedTime": 1709902804875,
       "sourceSize": 476,
       "exportedPath": "Notes.html",
       "dependencies": []
     },
     "Pasted image 20240208165915.png": {
-      "modifiedTime": 1709567792453,
+      "modifiedTime": 1709902804875,
       "sourceSize": 385048,
       "exportedPath": "Pasted image 20240208165915.png",
       "dependencies": []
     },
     "Pasted image 20240208173027.png": {
-      "modifiedTime": 1709567792453,
+      "modifiedTime": 1709902804875,
       "sourceSize": 362472,
       "exportedPath": "Pasted image 20240208173027.png",
       "dependencies": []
     },
     "Pasted image 20240210163224.png": {
-      "modifiedTime": 1709567792453,
+      "modifiedTime": 1709902804875,
       "sourceSize": 648085,
       "exportedPath": "Pasted image 20240210163224.png",
       "dependencies": []
     },
     "Pasted image 20240213063406.png": {
-      "modifiedTime": 1709567792453,
+      "modifiedTime": 1709902804875,
       "sourceSize": 470535,
       "exportedPath": "Pasted image 20240213063406.png",
       "dependencies": []
     },
     "Pasted image 20240214185122.png": {
-      "modifiedTime": 1709567792453,
+      "modifiedTime": 1709902804875,
       "sourceSize": 544662,
       "exportedPath": "Pasted image 20240214185122.png",
       "dependencies": []
     },
     "Pasted image 20240216042733.png": {
-      "modifiedTime": 1709567792453,
+      "modifiedTime": 1709902804875,
       "sourceSize": 411433,
       "exportedPath": "Pasted image 20240216042733.png",
       "dependencies": []
     },
     "Pasted image 20240216042831.png": {
-      "modifiedTime": 1709567792453,
+      "modifiedTime": 1709902804875,
       "sourceSize": 414030,
       "exportedPath": "Pasted image 20240216042831.png",
       "dependencies": []
     },
     "Pasted image 20240216042856.png": {
-      "modifiedTime": 1709567792453,
+      "modifiedTime": 1709902804875,
       "sourceSize": 410688,
       "exportedPath": "Pasted image 20240216042856.png",
       "dependencies": []
     },
     "Pasted image 20240216045823.png": {
-      "modifiedTime": 1709567792453,
+      "modifiedTime": 1709902804875,
       "sourceSize": 345161,
       "exportedPath": "Pasted image 20240216045823.png",
       "dependencies": []
     },
     "Pasted image 20240216045851.png": {
-      "modifiedTime": 1709567792453,
+      "modifiedTime": 1709902804875,
       "sourceSize": 384106,
       "exportedPath": "Pasted image 20240216045851.png",
       "dependencies": []
     },
     "Pasted image 20240218222140.png": {
-      "modifiedTime": 1709567792453,
+      "modifiedTime": 1709902804875,
       "sourceSize": 148744,
       "exportedPath": "Pasted image 20240218222140.png",
       "dependencies": []
     },
     "Pasted image 20240218223259.png": {
-      "modifiedTime": 1709567792453,
+      "modifiedTime": 1709902804875,
       "sourceSize": 168193,
       "exportedPath": "Pasted image 20240218223259.png",
       "dependencies": []
     },
     "Pasted image 20240218223317.png": {
-      "modifiedTime": 1709567792453,
+      "modifiedTime": 1709902804875,
       "sourceSize": 674880,
       "exportedPath": "Pasted image 20240218223317.png",
       "dependencies": []
     },
     "Pasted image 20240226133133.png": {
-      "modifiedTime": 1709567792453,
+      "modifiedTime": 1709902804875,
       "sourceSize": 555775,
       "exportedPath": "Pasted image 20240226133133.png",
       "dependencies": []
     },
     "requirednotes.zip": {
-      "modifiedTime": 1709567792453,
+      "modifiedTime": 1709902804875,
       "sourceSize": 57158,
       "exportedPath": "requirednotes.zip",
       "dependencies": []
     },
     "serv.zip": {
-      "modifiedTime": 1709567792453,
+      "modifiedTime": 1709902804875,
       "sourceSize": 126402,
       "exportedPath": "serv.zip",
       "dependencies": []
     },
     "lib/fonts/94f2f163d4b698242fef.otf": {
-      "modifiedTime": 1709567792453,
+      "modifiedTime": 1709902804875,
       "sourceSize": 66800,
       "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
       "dependencies": []
     },
     "lib/fonts/72505e6a122c6acd5471.woff2": {
-      "modifiedTime": 1709567792453,
+      "modifiedTime": 1709902804875,
       "sourceSize": 104232,
       "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
       "dependencies": []
     },
     "lib/fonts/2d5198822ab091ce4305.woff2": {
-      "modifiedTime": 1709567792453,
+      "modifiedTime": 1709902804875,
       "sourceSize": 104332,
       "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
       "dependencies": []
     },
     "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
-      "modifiedTime": 1709567792453,
+      "modifiedTime": 1709902804875,
       "sourceSize": 98868,
       "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
       "dependencies": []
     },
     "lib/fonts/cb10ffd7684cd9836a05.woff2": {
-      "modifiedTime": 1709567792453,
+      "modifiedTime": 1709902804875,
       "sourceSize": 106876,
       "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
       "dependencies": []
     },
     "lib/fonts/b5f0f109bc88052d4000.woff2": {
-      "modifiedTime": 1709567792453,
+      "modifiedTime": 1709902804875,
       "sourceSize": 105804,
       "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
       "dependencies": []
     },
     "lib/fonts/cbe0ae49c52c920fd563.woff2": {
-      "modifiedTime": 1709567792453,
+      "modifiedTime": 1709902804875,
       "sourceSize": 106108,
       "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
       "dependencies": []
     },
     "lib/fonts/535a6cf662596b3bd6a6.woff2": {
-      "modifiedTime": 1709567792453,
+      "modifiedTime": 1709902804875,
       "sourceSize": 111708,
       "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
       "dependencies": []
     },
     "lib/fonts/70cc7ff27245e82ad414.ttf": {
-      "modifiedTime": 1709567792453,
+      "modifiedTime": 1709902804875,
       "sourceSize": 192740,
       "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
       "dependencies": []
     },
     "lib/fonts/454577c22304619db035.ttf": {
-      "modifiedTime": 1709567792453,
+      "modifiedTime": 1709902804875,
       "sourceSize": 161376,
       "exportedPath": "lib/fonts/454577c22304619db035.ttf",
       "dependencies": []
     },
     "lib/fonts/52ac8f3034507f1d9e53.ttf": {
-      "modifiedTime": 1709567792453,
+      "modifiedTime": 1709902804875,
       "sourceSize": 191568,
       "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
       "dependencies": []
     },
     "lib/fonts/05b618077343fbbd92b7.ttf": {
-      "modifiedTime": 1709567792453,
+      "modifiedTime": 1709902804875,
       "sourceSize": 155288,
       "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
       "dependencies": []
     },
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
-      "modifiedTime": 1709567792453,
+      "modifiedTime": 1709902804875,
       "sourceSize": 7876,
       "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
       "dependencies": []
     },
     "lib/media/874d8b8e340f75575caa.svg": {
-      "modifiedTime": 1709567792453,
+      "modifiedTime": 1709902804875,
       "sourceSize": 317,
       "exportedPath": "lib/media/874d8b8e340f75575caa.svg",
       "dependencies": []
     },
     "lib/fonts/MathJax_Zero.woff": {
-      "modifiedTime": 1709567792453,
+      "modifiedTime": 1709902804875,
       "sourceSize": 1368,
       "exportedPath": "lib/fonts/MathJax_Zero.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_Main-Regular.woff": {
-      "modifiedTime": 1709567792453,
+      "modifiedTime": 1709902804875,
       "sourceSize": 34160,
       "exportedPath": "lib/fonts/MathJax_Main-Regular.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_Main-Bold.woff": {
-      "modifiedTime": 1709567792453,
+      "modifiedTime": 1709902804875,
       "sourceSize": 34464,
       "exportedPath": "lib/fonts/MathJax_Main-Bold.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_Math-Italic.woff": {
-      "modifiedTime": 1709567792453,
+      "modifiedTime": 1709902804875,
       "sourceSize": 19360,
       "exportedPath": "lib/fonts/MathJax_Math-Italic.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_Main-Italic.woff": {
-      "modifiedTime": 1709567792453,
+      "modifiedTime": 1709902804875,
       "sourceSize": 20832,
       "exportedPath": "lib/fonts/MathJax_Main-Italic.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_Math-BoldItalic.woff": {
-      "modifiedTime": 1709567792453,
+      "modifiedTime": 1709902804875,
       "sourceSize": 19776,
       "exportedPath": "lib/fonts/MathJax_Math-BoldItalic.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_Size1-Regular.woff": {
-      "modifiedTime": 1709567792453,
+      "modifiedTime": 1709902804875,
       "sourceSize": 5792,
       "exportedPath": "lib/fonts/MathJax_Size1-Regular.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_Size2-Regular.woff": {
-      "modifiedTime": 1709567792453,
+      "modifiedTime": 1709902804875,
       "sourceSize": 5464,
       "exportedPath": "lib/fonts/MathJax_Size2-Regular.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_Size3-Regular.woff": {
-      "modifiedTime": 1709567792453,
+      "modifiedTime": 1709902804875,
       "sourceSize": 3244,
       "exportedPath": "lib/fonts/MathJax_Size3-Regular.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_Size4-Regular.woff": {
-      "modifiedTime": 1709567792453,
+      "modifiedTime": 1709902804875,
       "sourceSize": 5148,
       "exportedPath": "lib/fonts/MathJax_Size4-Regular.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_AMS-Regular.woff": {
-      "modifiedTime": 1709567792453,
+      "modifiedTime": 1709902804875,
       "sourceSize": 40808,
       "exportedPath": "lib/fonts/MathJax_AMS-Regular.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_Calligraphic-Regular.woff": {
-      "modifiedTime": 1709567792453,
+      "modifiedTime": 1709902804875,
       "sourceSize": 9600,
       "exportedPath": "lib/fonts/MathJax_Calligraphic-Regular.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_Calligraphic-Bold.woff": {
-      "modifiedTime": 1709567792453,
+      "modifiedTime": 1709902804875,
       "sourceSize": 9908,
       "exportedPath": "lib/fonts/MathJax_Calligraphic-Bold.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_Fraktur-Regular.woff": {
-      "modifiedTime": 1709567792453,
+      "modifiedTime": 1709902804875,
       "sourceSize": 21480,
       "exportedPath": "lib/fonts/MathJax_Fraktur-Regular.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_Fraktur-Bold.woff": {
-      "modifiedTime": 1709567792453,
+      "modifiedTime": 1709902804875,
       "sourceSize": 22340,
       "exportedPath": "lib/fonts/MathJax_Fraktur-Bold.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_SansSerif-Regular.woff": {
-      "modifiedTime": 1709567792453,
+      "modifiedTime": 1709902804875,
       "sourceSize": 12660,
       "exportedPath": "lib/fonts/MathJax_SansSerif-Regular.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_SansSerif-Bold.woff": {
-      "modifiedTime": 1709567792453,
+      "modifiedTime": 1709902804875,
       "sourceSize": 15944,
       "exportedPath": "lib/fonts/MathJax_SansSerif-Bold.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_SansSerif-Italic.woff": {
-      "modifiedTime": 1709567792453,
+      "modifiedTime": 1709902804875,
       "sourceSize": 14628,
       "exportedPath": "lib/fonts/MathJax_SansSerif-Italic.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_Script-Regular.woff": {
-      "modifiedTime": 1709567792453,
+      "modifiedTime": 1709902804875,
       "sourceSize": 11852,
       "exportedPath": "lib/fonts/MathJax_Script-Regular.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_Typewriter-Regular.woff": {
-      "modifiedTime": 1709567792453,
+      "modifiedTime": 1709902804875,
       "sourceSize": 17604,
       "exportedPath": "lib/fonts/MathJax_Typewriter-Regular.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_Vector-Regular.woff": {
-      "modifiedTime": 1709567792453,
+      "modifiedTime": 1709902804875,
       "sourceSize": 1136,
       "exportedPath": "lib/fonts/MathJax_Vector-Regular.woff",
       "dependencies": []
     },
     "lib/fonts/MathJax_Vector-Bold.woff": {
-      "modifiedTime": 1709567792453,
+      "modifiedTime": 1709902804875,
       "sourceSize": 1116,
       "exportedPath": "lib/fonts/MathJax_Vector-Bold.woff",
       "dependencies": []
     },
     "🔐 Cyber Security/🌐 Category/Forensic/Corrupted File/Fix CRC From 3 Png.md": {
-      "modifiedTime": 1709567792453,
+      "modifiedTime": 1709902804875,
       "sourceSize": 2257,
       "exportedPath": "🔐 Cyber Security/🌐 Category/Forensic/Corrupted File/Fix CRC From 3 Png.html",
       "dependencies": []
     },
     "🔐 Cyber Security/🌐 Category/Forensic/Corrupted File/Fix signatures lists ( all type files ).md": {
-      "modifiedTime": 1709567792453,
+      "modifiedTime": 1709902804875,
       "sourceSize": 154,
       "exportedPath": "🔐 Cyber Security/🌐 Category/Forensic/Corrupted File/Fix signatures lists ( all type files ).html",
       "dependencies": []
     },
     "🔐 Cyber Security/🌐 Category/Forensic/Network Analysis/HTTP Network Analysis Payload Blind SQL Injection.md": {
-      "modifiedTime": 1709567792453,
+      "modifiedTime": 1709902804875,
       "sourceSize": 1955,
       "exportedPath": "🔐 Cyber Security/🌐 Category/Forensic/Network Analysis/HTTP Network Analysis Payload Blind SQL Injection.html",
       "dependencies": []
     },
     "Files/chall_size.zip": {
-      "modifiedTime": 1709567792453,
+      "modifiedTime": 1709902804875,
       "sourceSize": 2871,
       "exportedPath": "Files/chall_size.zip",
       "dependencies": []
     },
     "Files/logs": {
-      "modifiedTime": 1709567792453,
+      "modifiedTime": 1709902804875,
       "sourceSize": 34977652,
       "exportedPath": "Files/logs/logs.",
       "dependencies": []
     },
     "Files/Pasted image 20240229171325.png": {
-      "modifiedTime": 1709567792453,
+      "modifiedTime": 1709902804875,
       "sourceSize": 628915,
       "exportedPath": "Files/Pasted image 20240229171325.png",
       "dependencies": []
     },
     "Files/Pasted image 20240229171646.png": {
-      "modifiedTime": 1709567792453,
+      "modifiedTime": 1709902804875,
       "sourceSize": 703878,
       "exportedPath": "Files/Pasted image 20240229171646.png",
       "dependencies": []
     },
     "Files/Pasted image 20240229172005.png": {
-      "modifiedTime": 1709567792453,
+      "modifiedTime": 1709902804875,
       "sourceSize": 700314,
       "exportedPath": "Files/Pasted image 20240229172005.png",
       "dependencies": []
     },
     "Files/Pasted image 20240229192346.png": {
-      "modifiedTime": 1709567792453,
+      "modifiedTime": 1709902804875,
       "sourceSize": 1295558,
       "exportedPath": "Files/Pasted image 20240229192346.png",
       "dependencies": []
     },
     "🔐 Cyber Security/🌐 Category/Forensic/Corrupted File/Fix IHDR Length + Fix Missing CRC + Fix IDAT Chunk Data + Recover Cropped image acropalypse CVE.md": {
-      "modifiedTime": 1709567792453,
+      "modifiedTime": 1709902804875,
       "sourceSize": 3253,
       "exportedPath": "🔐 Cyber Security/🌐 Category/Forensic/Corrupted File/Fix IHDR Length + Fix Missing CRC + Fix IDAT Chunk Data + Recover Cropped image acropalypse CVE.html",
       "dependencies": []
     },
     "🔐 Cyber Security/🌐 Category/Pwn/CTF Writeup/Ret2win , all checksec false.md": {
-      "modifiedTime": 1709567792453,
-      "sourceSize": 3250,
+      "modifiedTime": 1709902804875,
+      "sourceSize": 2947,
       "exportedPath": "🔐 Cyber Security/🌐 Category/Pwn/CTF Writeup/Ret2win , all checksec false.html",
       "dependencies": []
     },
     "🔐 Cyber Security/🌐 Category/Pwn/PWN101/01 Modifying stack.md": {
-      "modifiedTime": 1709567792453,
+      "modifiedTime": 1709902804875,
       "sourceSize": 1210,
       "exportedPath": "🔐 Cyber Security/🌐 Category/Pwn/PWN101/01 Modifying stack.html",
       "dependencies": []
     },
     "🔐 Cyber Security/🌐 Category/Pwn/PWN101/02 Spesific Modfying Stack.md": {
-      "modifiedTime": 1709567792453,
+      "modifiedTime": 1709902804875,
       "sourceSize": 1335,
       "exportedPath": "🔐 Cyber Security/🌐 Category/Pwn/PWN101/02 Spesific Modfying Stack.html",
       "dependencies": []
     },
     "🔐 Cyber Security/🌐 Category/Pwn/PWN101/03 Ret2Win.md": {
-      "modifiedTime": 1709567792453,
+      "modifiedTime": 1709902804875,
       "sourceSize": 2101,
       "exportedPath": "🔐 Cyber Security/🌐 Category/Pwn/PWN101/03 Ret2Win.html",
       "dependencies": []
     },
     "🔐 Cyber Security/🌐 Category/Web Exploit/Loose Comparison == in javascript to bypass length using parameter array to command injection.md": {
-      "modifiedTime": 1709567792453,
+      "modifiedTime": 1709902804875,
       "sourceSize": 3580,
       "exportedPath": "🔐 Cyber Security/🌐 Category/Web Exploit/Loose Comparison == in javascript to bypass length using parameter array to command injection.html",
       "dependencies": []
     },
     "Files/Pasted image 20240301165136.png": {
-      "modifiedTime": 1709567792453,
+      "modifiedTime": 1709902804875,
       "sourceSize": 526915,
       "exportedPath": "Files/Pasted image 20240301165136.png",
       "dependencies": []
     },
     "Files/Pasted image 20240301165545.png": {
-      "modifiedTime": 1709567792453,
+      "modifiedTime": 1709902804875,
       "sourceSize": 699295,
       "exportedPath": "Files/Pasted image 20240301165545.png",
       "dependencies": []
     },
     "Files/Pasted image 20240301165631.png": {
-      "modifiedTime": 1709567792453,
+      "modifiedTime": 1709902804875,
       "sourceSize": 593137,
       "exportedPath": "Files/Pasted image 20240301165631.png",
       "dependencies": []
     },
     "Files/Pasted image 20240301170937.png": {
-      "modifiedTime": 1709567792453,
+      "modifiedTime": 1709902804875,
       "sourceSize": 613618,
       "exportedPath": "Files/Pasted image 20240301170937.png",
       "dependencies": []
     },
     "Files/Pasted image 20240301171101.png": {
-      "modifiedTime": 1709567792453,
+      "modifiedTime": 1709902804875,
       "sourceSize": 234212,
       "exportedPath": "Files/Pasted image 20240301171101.png",
       "dependencies": []
     },
     "Files/Pasted image 20240301171239.png": {
-      "modifiedTime": 1709567792453,
+      "modifiedTime": 1709902804875,
       "sourceSize": 256647,
       "exportedPath": "Files/Pasted image 20240301171239.png",
       "dependencies": []
     },
     "Files/Pasted image 20240301172841.png": {
-      "modifiedTime": 1709567792453,
+      "modifiedTime": 1709902804875,
       "sourceSize": 631872,
       "exportedPath": "Files/Pasted image 20240301172841.png",
       "dependencies": []
     },
     "Files/Pasted image 20240301172850.png": {
-      "modifiedTime": 1709567792453,
+      "modifiedTime": 1709902804875,
       "sourceSize": 550932,
       "exportedPath": "Files/Pasted image 20240301172850.png",
       "dependencies": []
     },
     "Files/Pasted image 20240301172918.png": {
-      "modifiedTime": 1709567792453,
+      "modifiedTime": 1709902804875,
       "sourceSize": 556528,
       "exportedPath": "Files/Pasted image 20240301172918.png",
       "dependencies": []
     },
     "Files/Pasted image 20240304223409.png": {
-      "modifiedTime": 1709567792453,
+      "modifiedTime": 1709902804875,
       "sourceSize": 507818,
       "exportedPath": "Files/Pasted image 20240304223409.png",
       "dependencies": []
     },
     "Files/Pasted image 20240304223454.png": {
-      "modifiedTime": 1709567792453,
+      "modifiedTime": 1709902804875,
       "sourceSize": 28102,
       "exportedPath": "Files/Pasted image 20240304223454.png",
       "dependencies": []
     },
     "Files/Pasted image 20240304223656.png": {
-      "modifiedTime": 1709567792453,
+      "modifiedTime": 1709902804875,
       "sourceSize": 486054,
       "exportedPath": "Files/Pasted image 20240304223656.png",
       "dependencies": []
     },
     "Files/Pasted image 20240304224426.png": {
-      "modifiedTime": 1709567792453,
+      "modifiedTime": 1709902804875,
       "sourceSize": 509974,
       "exportedPath": "Files/Pasted image 20240304224426.png",
       "dependencies": []
     },
     "Files/Pasted image 20240304224718.png": {
-      "modifiedTime": 1709567792453,
+      "modifiedTime": 1709902804875,
       "sourceSize": 694961,
       "exportedPath": "Files/Pasted image 20240304224718.png",
       "dependencies": []
     },
     "Files/Pasted image 20240304224814.png": {
-      "modifiedTime": 1709567792453,
+      "modifiedTime": 1709902804875,
       "sourceSize": 630300,
       "exportedPath": "Files/Pasted image 20240304224814.png",
       "dependencies": []
     },
     "Files/Pasted image 20240304224926.png": {
-      "modifiedTime": 1709567792453,
+      "modifiedTime": 1709902804875,
       "sourceSize": 66269,
       "exportedPath": "Files/Pasted image 20240304224926.png",
       "dependencies": []
     },
     "Files/Pasted image 20240304225017.png": {
-      "modifiedTime": 1709567792453,
+      "modifiedTime": 1709902804875,
       "sourceSize": 269138,
       "exportedPath": "Files/Pasted image 20240304225017.png",
       "dependencies": []
     },
     "Files/Pasted image 20240304225120.png": {
-      "modifiedTime": 1709567792453,
+      "modifiedTime": 1709902804875,
       "sourceSize": 176916,
       "exportedPath": "Files/Pasted image 20240304225120.png",
       "dependencies": []
     },
     "Files/Pasted image 20240304225154.png": {
-      "modifiedTime": 1709567792453,
+      "modifiedTime": 1709902804875,
       "sourceSize": 292791,
       "exportedPath": "Files/Pasted image 20240304225154.png",
       "dependencies": []
     },
     "Files/pwn101.pwn101": {
-      "modifiedTime": 1709567792453,
+      "modifiedTime": 1709902804875,
       "sourceSize": 12760,
       "exportedPath": "Files/pwn101.pwn101",
       "dependencies": []
     },
     "Files/pwn102.pwn102": {
-      "modifiedTime": 1709567792453,
+      "modifiedTime": 1709902804875,
       "sourceSize": 8720,
       "exportedPath": "Files/pwn102.pwn102",
       "dependencies": []
     },
     "Files/pwn103.pwn103": {
-      "modifiedTime": 1709567792453,
+      "modifiedTime": 1709902804875,
       "sourceSize": 20800,
       "exportedPath": "Files/pwn103.pwn103",
+      "dependencies": []
+    },
+    "🔐 Cyber Security/🌐 Category/Forensic/ZIP Brute Nuclear Code LKS Malang Quals.md": {
+      "modifiedTime": 1709902804875,
+      "sourceSize": 3415,
+      "exportedPath": "🔐 Cyber Security/🌐 Category/Forensic/ZIP Brute Nuclear Code LKS Malang Quals.html",
+      "dependencies": []
+    },
+    "🔐 Cyber Security/🌐 Category/Web Exploit/Javascript Argument Injection to XSS bypass regex.md": {
+      "modifiedTime": 1709902804875,
+      "sourceSize": 1224,
+      "exportedPath": "🔐 Cyber Security/🌐 Category/Web Exploit/Javascript Argument Injection to XSS bypass regex.html",
+      "dependencies": []
+    },
+    "🔐 Cyber Security/🌐 Category/Web Exploit/XSLeak CSS for getting Input Value.md": {
+      "modifiedTime": 1709902804875,
+      "sourceSize": 2990,
+      "exportedPath": "🔐 Cyber Security/🌐 Category/Web Exploit/XSLeak CSS for getting Input Value.html",
+      "dependencies": []
+    },
+    "Files/dist.zip": {
+      "modifiedTime": 1709902804875,
+      "sourceSize": 68501,
+      "exportedPath": "Files/dist.zip",
+      "dependencies": []
+    },
+    "Files/elkaes.zip": {
+      "modifiedTime": 1709902804875,
+      "sourceSize": 3168979,
+      "exportedPath": "Files/elkaes.zip",
+      "dependencies": []
+    },
+    "Files/Pasted image 20240308012948.png": {
+      "modifiedTime": 1709902804875,
+      "sourceSize": 322771,
+      "exportedPath": "Files/Pasted image 20240308012948.png",
+      "dependencies": []
+    },
+    "Files/Pasted image 20240308194327.png": {
+      "modifiedTime": 1709902804875,
+      "sourceSize": 421700,
+      "exportedPath": "Files/Pasted image 20240308194327.png",
       "dependencies": []
     }
   }
